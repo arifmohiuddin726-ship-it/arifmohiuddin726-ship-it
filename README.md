@@ -1,248 +1,200 @@
-[Uploading README.md…]()
+[README.md](https://github.com/user-attachments/files/33602954/README.md)
 <div align="center">
 
-<sub><code>PORTFOLIO — INDEX Nº 001</code>　　　　　　　　　　　　　　　　　<code>CHATTOGRAM, BD — 22.36° N</code></sub>
+<sub><code>PORTFOLIO — INDEX Nº 001</code>　　　　　　　　　　　　　　　　　<code>CHATTOGRAM, BD</code></sub>
 
 # Mohammed Arif Mohiuddin
 
-### AI Automation Engineer — Chattogram, Bangladesh.
+<sub>AI Automation Engineer — Chattogram, Bangladesh.</sub>
 
-<sub>focus · AI · workflow systems · intelligent agents · RAG · API integration</sub><br>
-<sub>open to learning · collaboration · building smarter solutions</sub>
+<sub>focus · AI automation · workflow systems · RAG · prompt engineering · API integration</sub>
 
-<br>
-
-<sub>AI & AUTOMATION　　·　　WORKFLOW SYSTEMS　　·　　API INTEGRATION　　·　　INDEPENDENT / 2026</sub>
-
-<br>
-
-[PORTFOLIO](#03--selected-projects)　　[ABOUT](#01--whoami)　　[LINKEDIN ↗](https://www.linkedin.com/in/arifmohiuddin01)　　[GITHUB ↗](https://github.com/arifmohiuddin726-ship-it)　　[EMAIL ↗](mailto:arifmohiuddin726@gmail.com)
+<sub>open to learning · collaboration · building smarter workflows</sub>
 
 </div>
 
 ---
 
-## `01`　WHOAMI <sub>　　　　　　　　　　　　　　　　　　　　　　　　　`/01-whoami`</sub>
+<sub><code>AI & AUTOMATION</code>　　　　　<code>WORKFLOW SYSTEMS</code>　　　　　<code>API INTEGRATION</code>　　　　　<code>INDEPENDENT / 2026</code></sub>
 
+<div align="center">
+
+[PORTFOLIO](#03-projects)　 [RESUME](#01-whoami)　 [LINKEDIN](https://www.linkedin.com/in/arifmohiuddin01)　 [GITHUB](https://github.com/arifmohiuddin726-ship-it)　 [EMAIL](mailto:arifmohiuddin726@gmail.com)
+
+</div>
+
+---
+
+## 01　<sub>W H O A M I</sub> <sub>　　　　　　　　　　　　　　　　　　　　　　　　　`/01-whoami`</sub>
+
+<sub>
 I’m passionate about AI and automation, focused on building smarter workflows that reduce repetitive work, save time, and improve productivity.
 
-I work on AI automation and workflow automation to simplify everyday tasks and make business processes more efficient. My goal is to turn repetitive tasks into smooth, reliable workflows.
+I work on AI and workflow automation to simplify everyday tasks and make business processes more efficient. My goal is to turn repetitive tasks into smooth, reliable workflows.
+</sub>
 
-I’m actively developing my skills through learning and hands-on practice, with a focus on practical solutions and real-world projects.
-
-<sub>FOCUS　·　AI AUTOMATION　·　WORKFLOW OPTIMIZATION　·　RAG SYSTEMS　·　PROMPT ENGINEERING</sub>
-
-| OPERATOR PROFILE | DETAILS |
-|:--|:--|
-| NAME | Mohammed Arif Mohiuddin |
-| ROLE | AI Automation Engineer |
-| BASE | Chattogram, Bangladesh |
-| STATUS | Learning / Building / Improving |
-| INTERESTS | AI agents, workflow automation, APIs, knowledge systems |
+<sub>
+**FOCUS**　AI automation · Workflow optimization · RAG systems · Prompt engineering  
+**STATUS**　Learning · Building · Improving  
+**INTERESTS**　AI agents · APIs · Knowledge systems · Productivity
+</sub>
 
 ---
 
-## `02`　SYSTEM MAP <sub>　　　　　　　　　　　　　　　　　　　　　　　　`/02-system-map`</sub>
+## 02　<sub>S Y S T E M　M A P</sub> <sub>　　　　　　　　　　　　　　　　　`/02-ecosystem`</sub>
 
-<sub>A map of the tools and ideas I connect through automation.</sub>
+<sub>**SYSTEM MAP — THE TOOLS AND IDEAS I CONNECT THROUGH AUTOMATION**</sub>
 
-```mermaid
-flowchart TD
-    A["MOHAMMED ARIF MOHIUDDIN<br/>AI AUTOMATION"]
-    A --- B["AI AGENTS"]
-    A --- C["WORKFLOW SYSTEMS"]
-    A --- D["API INTEGRATION"]
-    A --- E["RAG / KNOWLEDGE"]
-    A --- F["DATA PROCESSING"]
-    A --- G["PRODUCTIVITY"]
-    B --- H["Prompt Engineering"]
-    C --- I["n8n · Zapier"]
-    D --- J["APIs · Webhooks"]
-    E --- K["Semantic Search"]
-    F --- L["Python · Excel"]
-    classDef main fill:#111418,stroke:#d0d0d0,color:#f2f2f2;
-    class A main;
+```text
+                              AI & AUTOMATION
+                                     │
+             ┌───────────────────────┼───────────────────────┐
+             │                       │                       │
+       WORKFLOWS                AI SYSTEMS             INTEGRATION
+             │                       │                       │
+        n8n · Zapier         RAG · Prompting         APIs · Webhooks
+             │                       │                       │
+             └───────────────────────┼───────────────────────┘
+                                     │
+                              PRACTICAL TOOLS
+                                     │
+                         Python · JavaScript · Excel
 ```
 
-<sub>● ACTIVE INTEREST　　·　　6 CONNECTED DOMAINS</sub>
+---
+
+## 03　<sub>P R O J E C T S</sub> <sub>　　　　　　　　　　　　　　　　　　　　　　　`/03-projects`</sub>
+
+<sub>SELECTED WORK — AUTOMATION SYSTEMS BUILT TO SOLVE PRACTICAL TASKS</sub>
+
+### `01`　JOB AUTOMATION
+**LinkedIn Job Alert Automation System**　·　`COMPLETED`
+
+An automation system that monitors LinkedIn job opportunities and sends timely alerts based on relevant keywords.
+
+<sub>FEATURES　Keyword filtering · Instant notifications · Application workflow support</sub>  
+<sub>STACK　n8n · LinkedIn · Webhooks · Email</sub>  
+<sub>TAGS　JOB SEARCH · LINKEDIN · AUTOMATION</sub>
 
 ---
 
-## `03`　SELECTED PROJECTS <sub>　　　　　　　　　　　　　　　　　`/03-projects`</sub>
+### `02`　HEALTHCARE AI
+**AI Email Automation System**　·　`COMPLETED`
 
-<sub>Practical systems and experiments built around useful automation.</sub>
+An email automation workflow designed to help dental clinics manage patient communication and appointment-related tasks.
 
-### `01 / JOB AUTOMATION`
-
-**LinkedIn Job Alert Automation System**　`COMPLETED`
-
-An intelligent automation system that streamlines job hunting by monitoring LinkedIn opportunities and delivering timely alerts.
-
-- **Overview** — Automate job hunting with intelligent monitoring and alerts.
-- **Features** — Keyword filtering · Instant notifications · Automated applications
-- **Stack** — `n8n` `LinkedIn API` `Webhooks` `Email`
-- **Tags** — `LINKEDIN` `JOB SEARCH` `AUTOMATION`
+<sub>FEATURES　Appointment scheduling · Patient inquiries · Automated reminders</sub>  
+<sub>STACK　n8n · Gmail API · OpenAI</sub>  
+<sub>TAGS　HEALTHCARE · EMAIL AI · N8N</sub>
 
 ---
 
-### `02 / HEALTHCARE AI`
+### `03`　DATA PROCESSING
+**Automated Excel Data Processing System**　·　`COMPLETED`
 
-**AI Email Automation System**　`COMPLETED`
+A workflow that cleans, validates, and standardizes Excel data, with checks to help identify data-quality issues.
 
-An intelligent email automation system designed for dental clinics to handle patient communications and appointments.
-
-- **Overview** — Streamline dental clinic operations with AI-powered email management.
-- **Features** — Appointment scheduling · Patient inquiries · Automated reminders
-- **Stack** — `n8n` `Gmail API` `OpenAI`
-- **Tags** — `HEALTHCARE` `EMAIL AI` `N8N`
+<sub>FEATURES　Duplicate removal · Format standardization · Error detection · Validation</sub>  
+<sub>STACK　n8n · Excel · Python</sub>  
+<sub>TAGS　DATA VALIDATION · EXCEL · DATA CLEANING</sub>
 
 ---
 
-### `03 / DATA PROCESSING`
+### `04`　IMAGE AI
+**AI-Powered Image Discovery Agent**　·　`COMPLETED`
 
-**Automated Excel Data Processing System**　`COMPLETED`
+An image discovery workflow that helps search for, filter, and download images using AI-assisted content recognition and quality checks.
 
-An intelligent data-cleaning system that processes, validates, and standardizes Excel data with AI-powered quality checks.
-
-- **Overview** — Transform messy data into clean, structured datasets automatically.
-- **Features** — Duplicate removal · Format standardization · Error detection · Validation
-- **Stack** — `n8n` `Excel API` `Python`
-- **Tags** — `DATA VALIDATION` `EXCEL` `DATA CLEANING`
+<sub>FEATURES　Smart search · Quality filtering · Batch downloading · Content recognition</sub>  
+<sub>STACK　n8n · Image APIs · AI vision</sub>  
+<sub>TAGS　IMAGE AI · SEARCH · AUTOMATION</sub>
 
 ---
 
-### `04 / IMAGE AI`
+### `05`　AI AUTOMATION
+**AI Travel Assistant Using MCP**　·　`COMPLETED`
 
-**AI-Powered Image Discovery Agent**　`COMPLETED`
+An AI travel assistant that helps users explore destinations, plan trips, and generate travel itineraries.
 
-An image-search automation that finds, filters, and downloads images using AI-powered content recognition and quality assessment.
-
-- **Overview** — Automate image discovery and collection with AI intelligence.
-- **Features** — Smart search · Quality filtering · Batch downloading · Content recognition
-- **Stack** — `n8n` `Image APIs` `AI Vision`
-- **Tags** — `IMAGE AI` `SEARCH` `AUTOMATION`
+<sub>FEATURES　Destination recommendations · Itinerary generation · Travel information assistance</sub>  
+<sub>STACK　MCP · AI · n8n · API integration</sub>  
+<sub>TAGS　MCP · TRAVEL AI · AUTOMATION</sub>
 
 ---
 
-### `05 / AI AUTOMATION`
+### `06`　AI ASSISTANT
+**Smart Student Assistant**　·　`COMPLETED`
 
-**AI Travel Assistant using MCP**　`COMPLETED`
+An AI assistant designed to help students with academic questions, study organization, and everyday learning tasks.
 
-An intelligent travel planning assistant powered by MCP that helps users discover destinations, generate itineraries, and simplify travel planning.
-
-- **Overview** — AI-powered trip planning and destination discovery.
-- **Features** — Destination recommendations · Smart itinerary generation · Travel information assistance
-- **Stack** — `MCP` `AI` `n8n` `API Integration`
-- **Tags** — `MCP` `TRAVEL AI` `AUTOMATION`
+<sub>FEATURES　Academic assistance · AI Q&A · Study management · Productivity support</sub>  
+<sub>STACK　AI · n8n · LLMs · API integration</sub>  
+<sub>TAGS　EDUCATION · AI · ASSISTANT</sub>
 
 ---
 
-### `06 / AI ASSISTANT`
+### `07`　AI AUTOMATION
+**AI Knowledge Base Support Agent**　·　`COMPLETED`
 
-**Smart Student Assistant**　`COMPLETED`
+A RAG-based support agent built with n8n. It processes documents from Google Drive, stores embeddings in Supabase, retrieves relevant information through semantic search, generates answers with an LLM, and can send replies through Gmail with an optional human approval step.
 
-An AI-powered student assistant that helps learners manage academic tasks, answer questions, organize study materials, and improve productivity.
-
-- **Overview** — AI-powered academic assistance and study management.
-- **Features** — Academic assistance · AI-powered Q&A · Study management · Productivity support
-- **Stack** — `AI` `n8n` `LLM` `API Integration`
-- **Tags** — `EDUCATION` `AI` `ASSISTANT`
+<sub>FEATURES　Document processing · Semantic search · AI-generated responses · Human approval workflow</sub>  
+<sub>STACK　n8n · Groq · Gemini · Supabase · RAG · Gmail API</sub>  
+<sub>TAGS　N8N · RAG · AI AGENT · VECTOR DATABASE</sub>
 
 ---
 
-### `07 / AI AUTOMATION`
+### `08`　YOUTUBE AUTOMATION
+**YouTube Content Automation System**　·　`COMPLETED`
 
-**AI Knowledge Base Support Agent**　`COMPLETED`
+An automation workflow supporting YouTube content creation, from script generation through publishing and optimization tasks.
 
-An enterprise-grade RAG-powered customer support assistant built with n8n. It processes documents from Google Drive, stores embeddings in Supabase Vector Store, retrieves relevant knowledge through semantic search, generates responses with Groq LLM, and sends Gmail replies with optional Human-in-the-Loop approval.
-
-- **Overview** — Enterprise RAG-powered customer support with intelligent knowledge retrieval.
-- **Features** — Document processing · Semantic search · AI response generation · Human approval workflow
-- **Stack** — `n8n` `Groq LLM` `Gemini` `Supabase` `RAG` `Gmail API`
-- **Tags** — `RAG` `AI AGENT` `VECTOR DB`
+<sub>FEATURES　Script generation · Thumbnail creation · Scheduling · SEO support · Analytics tracking</sub>  
+<sub>STACK　n8n · YouTube API · OpenAI</sub>  
+<sub>TAGS　YOUTUBE · CONTENT AI · AUTOMATION</sub>
 
 ---
 
-### `08 / YOUTUBE AUTOMATION`
+## 04　<sub>T O O L K I T</sub> <sub>　　　　　　　　　　　　　　　　　　　　　　　　　`/04-toolkit`</sub>
 
-**YouTube Content Automation System**　`COMPLETED`
+<sub>
+**AI & AUTOMATION**  
+`n8n`　`Zapier`　`RAG`　`Prompt Engineering`　`AI Agents`
 
-A comprehensive automation workflow for YouTube content creation, from script generation to video publishing and optimization.
+**DEVELOPMENT & INTEGRATION**  
+`Python`　`JavaScript`　`APIs`　`Webhooks`　`Gmail API`　`Excel`
 
-- **Overview** — Streamline YouTube content production with AI-powered automation.
-- **Features** — Script generation · Thumbnail creation · Video scheduling · SEO optimization · Analytics tracking
-- **Stack** — `n8n` `YouTube API` `OpenAI`
-- **Tags** — `YOUTUBE` `CONTENT AI` `AUTOMATION`
-
----
-
-## `04`　TELEMETRY <sub>　　　　　　　　　　　　　　　　　　　　　　　　`/04-telemetry`</sub>
-
-| METRIC | VALUE |
-|:--|--:|
-| PROJECTS DOCUMENTED | `08` |
-| PRIMARY FOCUS | `AI / OPS` |
-| WORKFLOW TOOLS | `n8n · Zapier` |
-| KNOWLEDGE SYSTEMS | `RAG · Vector Search` |
-| INTEGRATION FOCUS | `APIs · Webhooks` |
-
-**LANGUAGE & TOOLING MAP**
-
-| DOMAIN | CURRENT FOCUS |
-|:--|:--|
-| AI & LLMs | `████████░░` |
-| Workflow automation | `█████████░` |
-| API integration | `████████░░` |
-| RAG & knowledge systems | `███████░░░` |
-| Python | `█████░░░░░` |
-| JavaScript | `█████░░░░░` |
-| Zapier | `██████░░░░` |
-
-<sub>NOTE: The bars show current learning focus, not live analytics or measured proficiency.</sub>
+**KNOWLEDGE SYSTEMS**  
+`Semantic Search`　`Vector Databases`　`LLM Applications`
+</sub>
 
 ---
 
-## `05`　FIELD NOTES / TIMELINE <sub>　　　　　　　　　　　　　　`/05-timeline`</sub>
+## 05　<sub>C U R R E N T　F O C U S</sub> <sub>　　　　　　　　　　　　　　　`/05-focus`</sub>
 
-| WHEN | TRACK | NOTES |
-|:--|:--|:--|
-| `2026 — NOW` | AI AUTOMATION ENGINEER | Learning, experimenting, and building practical AI-powered workflows. |
-| `ONGOING` | HANDS-ON PROJECTS | Developing automation systems for job alerts, email, data processing, and AI assistants. |
-| `NEXT` | BUILD · ITERATE · SHARE | Turning ideas into reliable solutions and learning through real-world projects. |
-
----
-
-## `06`　STACK <sub>　　　　　　　　　　　　　　　　　　　　　　　　　　`/06-stack`</sub>
-
-**AI & AUTOMATION**
-
-`n8n`　`Zapier`　`AI Agents`　`RAG`　`Prompt Engineering`　`Workflow Automation`
-
-**DEVELOPMENT & INTEGRATION**
-
-`Python`　`JavaScript`　`API Integration`　`Webhooks`　`Gmail API`　`Excel API`
-
-**CURRENTLY EXPLORING**
-
-`MCP`　`Vector Databases`　`LLM Applications`　`Human-in-the-Loop Workflows`
+<sub>
+01　Build reliable workflows that reduce repetitive work.  
+02　Improve practical skills in AI automation and API integration.  
+03　Explore RAG systems and AI assistants through hands-on projects.  
+04　Keep learning, testing, and improving real-world solutions.
+</sub>
 
 ---
 
-## `07`　LET’S CONNECT <sub>　　　　　　　　　　　　　　　　　　　　　`/07-contact`</sub>
+## 06　<sub>C O N T A C T</sub> <sub>　　　　　　　　　　　　　　　　　　　　　　　　`/06-contact`</sub>
 
-### Build something smarter.
+<sub>Interested in AI, automation, or workflow optimization? I’m always open to learning, sharing ideas, and exploring opportunities to build smarter solutions together.</sub>
 
-Interested in AI, automation, or workflow optimization? Feel free to connect with me or send me a message on LinkedIn. I’m always open to learning, sharing ideas, and exploring opportunities to build smarter solutions together.
-
-- **LINKEDIN** — [linkedin.com/in/arifmohiuddin01](https://www.linkedin.com/in/arifmohiuddin01)
-- **GITHUB** — [github.com/arifmohiuddin726-ship-it](https://github.com/arifmohiuddin726-ship-it)
-- **EMAIL** — [arifmohiuddin726@gmail.com](mailto:arifmohiuddin726@gmail.com)
+<sub>
+**LINKEDIN**　[linkedin.com/in/arifmohiuddin01](https://www.linkedin.com/in/arifmohiuddin01)  
+**GITHUB**　[github.com/arifmohiuddin726-ship-it](https://github.com/arifmohiuddin726-ship-it)  
+**EMAIL**　[arifmohiuddin726@gmail.com](mailto:arifmohiuddin726@gmail.com)
+</sub>
 
 ---
 
 <div align="center">
 
-<sub>MOHAMMED ARIF MOHIUDDIN　·　AI AUTOMATION　·　2026</sub><br>
-<sub>DESIGNED AS A LIVING DOCUMENT</sub>
+<sub>MOHAMMED ARIF MOHIUDDIN　·　AI AUTOMATION　·　CHATTOGRAM, BANGLADESH</sub>
 
 </div>
